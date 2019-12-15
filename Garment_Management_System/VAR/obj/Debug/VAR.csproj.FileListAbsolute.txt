@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\Garment_Management_System\VAR\bin\Debug\VAR.dll
+C:\Users\Asus\Desktop\Garment_Management_System\VAR\bin\Debug\VAR.pdb
+C:\Users\Asus\Desktop\Garment_Management_System\VAR\obj\Debug\VAR.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Garment_Management_System\VAR\obj\Debug\VAR.dll
+C:\Users\Asus\Desktop\Garment_Management_System\VAR\obj\Debug\VAR.pdb
+C:\Users\Asus\Desktop\Garment_Management_System\VAR\obj\Debug\VAR.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\GarmentManagementSystem\Garment_Management_System\VAR\bin\Debug\VAR.dll
+C:\Users\Asus\Desktop\GarmentManagementSystem\Garment_Management_System\VAR\bin\Debug\VAR.pdb
+C:\Users\Asus\Desktop\GarmentManagementSystem\Garment_Management_System\VAR\obj\Debug\VAR.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\GarmentManagementSystem\Garment_Management_System\VAR\obj\Debug\VAR.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GarmentManagementSystem\Garment_Management_System\VAR\obj\Debug\VAR.dll
+C:\Users\Asus\Desktop\GarmentManagementSystem\Garment_Management_System\VAR\obj\Debug\VAR.pdb

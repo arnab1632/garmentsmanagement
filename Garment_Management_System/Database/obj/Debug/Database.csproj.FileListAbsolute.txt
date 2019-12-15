@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\Garment_Management_System\Database\bin\Debug\Database.dll
+C:\Users\Asus\Desktop\Garment_Management_System\Database\bin\Debug\Database.pdb
+C:\Users\Asus\Desktop\Garment_Management_System\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Garment_Management_System\Database\obj\Debug\Database.dll
+C:\Users\Asus\Desktop\Garment_Management_System\Database\obj\Debug\Database.pdb
+C:\Users\Asus\Desktop\Garment_Management_System\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\GarmentManagementSystem\Garment_Management_System\Database\bin\Debug\Database.dll
+C:\Users\Asus\Desktop\GarmentManagementSystem\Garment_Management_System\Database\bin\Debug\Database.pdb
+C:\Users\Asus\Desktop\GarmentManagementSystem\Garment_Management_System\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\GarmentManagementSystem\Garment_Management_System\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GarmentManagementSystem\Garment_Management_System\Database\obj\Debug\Database.dll
+C:\Users\Asus\Desktop\GarmentManagementSystem\Garment_Management_System\Database\obj\Debug\Database.pdb
